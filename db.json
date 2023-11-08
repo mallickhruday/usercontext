@@ -1,17 +1,6 @@
 {
     "firstName": "Manjur",
     "lastName": "Alam",
-    "accessGroupName": "",
-    "roleName": "",
-    "email": "manjur_alam@dell.com",
-    "displayName": "manjur_alam@dell.com",
-    "profileId": null,
-    "accessGroupId": null,
-    "customerSetId": null,
-    "roleId": null,
-    "sessionInstanceId": null,
-    "sessionId": null,
-    "authenticatedStatus": null,
-    "isAuthenticated": true,
-    "accessGroupType": ""
+   "isAuthenticated": true
+    
 }
